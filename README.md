@@ -5,7 +5,7 @@
 -->
 
 # 👋 Hi, I’m **Krish Modi**
-**IT Student · Full-Stack Enthusiast · Aspiring Software Manager**
+**CSE Student · Full-Stack Enthusiast · Aspiring Software Manager**
 
 > "Building reliable software & real-world solutions — one polished commit at a time."
 
