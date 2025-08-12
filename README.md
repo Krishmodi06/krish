@@ -66,8 +66,8 @@ Multiple web apps and practicals for DSA, file projects and servlet-based portal
 
 ## 📈 GitHub Stats
 
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_border=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true&theme=default)
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krishmodi06&show_icons=true&hide_border=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishmodi06&layout=compact&hide_border=true&theme=default)
 
 ---
 
